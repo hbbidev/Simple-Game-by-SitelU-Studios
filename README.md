@@ -1,15 +1,15 @@
 ```markdown
-# 🎮 Game Petualangan Teks: "Mimpi di Hutan Gelap"
+# 🎮 Adventure Game Text Based: "Mimpi di Hutan Gelap"
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Lisensi](https://img.shields.io/badge/Lisensi-MIT-green)
 
 Game petualangan berbasis teks dengan cerita bercabang di mana setiap pilihan menentukan nasib karakter! Dibuat dengan Java.
 
-## 📖 Sinopsis
+## 📖 Synopsis
 Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. Jelajahi hutan, hadapi hantu, dan temukan harta karun - semua dalam mimpi yang tidak terduga!
 
-## ✨ Fitur
+## ✨ Feature
 - **10 Adegan Unik** dengan akhir berbeda
 - **Sistem HP & XP**: Pilihan memengaruhi kesehatan dan poin pengalaman
 - **Jalur Acak** menggunakan `Random`
@@ -17,27 +17,27 @@ Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. J
 - Cek status dengan perintah `INFO`
 ```
 
-## 🛠️ Cara Instal
+## 🛠️ How to Install
 1. **Clone repositori**:
    ```bash
    git clone https://github.com/username/text-adventure-game.git
    cd text-adventure-game
    ```
 
-2. **Kompilasi & Jalankan**:
+2. **Run & Compile**:
    ```bash
    javac *.java
    java Main
    ```
 
-## 🕹️ Cara Bermain
-| Perintah | Aksi                          |
+## 🕹️ How to Play
+| Command  | Action                        |
 |----------|-------------------------------|
-| A/B/C/D/E| Pilih opsi yang tersedia      |
-| INFO     | Tampilkan status karakter     |
-| CTRL+C   | Keluar dari game              |
+| A/B/C/D/E| Select Choices                |
+| INFO     | See Character status          |
+| CTRL+C   | Exit game                     |
 
-Contoh:
+Example:
 ```
 Bang Opik berada di hutan yang gelap 👻...
 A: Maju
@@ -49,7 +49,7 @@ E: Berteriak
 Pilihan (A/B/C/D/E atau INFO): A
 ```
 
-## 📁 Struktur Kode
+## 📁 Structure code
 ```plaintext
 ├── Character.java    # Kelas karakter (HP, XP, item)
 ├── Scene.java        # Kelas adegan dan pilihan
@@ -57,34 +57,37 @@ Pilihan (A/B/C/D/E atau INFO): A
 └── Main.java         # Inisialisasi game
 ```
 
-## 🎭 Ending Potensial
+## 🎭 Potential Ending
 - 🏆 Dapatkan 271 Triliun dari pemerintah
 - 👻 Terjebak selamanya dengan hantu
 - 🔋 Kehabisan baterai di tengah hutan
 - 💀 Game Over karena HP habis
 - 🛌 Terbangun dari mimpi
 
-## 🤝 Berkontribusi
+## 📊 Inter Scene Relationship Diagram
+![Diagram Hubungan Antar Scene](src/Diagram_Scene.svg)
+
+## 🤝 Contributed
 1. Fork repositori
-2. Buat branch baru:
+2. Create new Branch:
    ```bash
    git checkout -b fitur-baru
    ```
-3. Commit perubahan:
+3. Commit Change:
    ```bash
    git commit -m "Tambahkan fitur keren"
    ```
-4. Push ke GitHub:
+4. Push to GitHub:
    ```bash
    git push origin fitur-baru
    ```
-5. Buat Pull Request
+5. Create Pull Request
 
-## 📜 Lisensi
-Dilisensikan di bawah [MIT License](LICENSE).
+## 📜 Lisence
+Licensed under [MIT License](LICENSE).
 
 ---
 
-**Selamat Bermain!** ✨  
-_Jangan lupa screenshot ending favoritmu!_
+**Happy Play** ✨  
+_Don't forget to ScreenShot your Favorite Ending!_
 ```
