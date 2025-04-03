@@ -17,6 +17,7 @@ Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. J
 - **Jalur Acak** menggunakan `Random`
 - **5+ Ending Berbeda**
 - Cek status dengan perintah `INFO`
+```
 
 ## 🛠️ Cara Instal
 1. **Clone repositori**:
