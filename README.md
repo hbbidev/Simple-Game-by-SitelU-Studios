@@ -21,7 +21,7 @@ Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. J
 1. **Clone repositori**:
    ```bash
    git clone https://github.com/hbbidev/Simple-Game-by-SitelU-Studios.git
-   Simple-Game-by-SitelU-Studios/src
+   cd Simple-Game-by-SitelU-Studios/src
    ```
 
 2. **Run & Compile**:
