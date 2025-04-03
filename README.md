@@ -20,7 +20,7 @@ Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. J
 ## 🛠️ How to Install
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/text-adventure-game.git
+   git clone https://github.com/hbbidev/Simple-Game-by-SitelU-Studios.git
    cd text-adventure-game/src
    ```
 
