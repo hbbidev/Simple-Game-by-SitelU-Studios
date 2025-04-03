@@ -1,5 +1,3 @@
-Berikut kode README.md siap pakai untuk GitHub (simpan sebagai `README.md`):
-
 ```markdown
 # 🎮 Game Petualangan Teks: "Mimpi di Hutan Gelap"
 
