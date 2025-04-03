@@ -21,7 +21,7 @@ Bang Opik terbangun di hutan gelap misterius tanpa tahu bagaimana cara keluar. J
 1. **Clone repositori**:
    ```bash
    git clone https://github.com/username/text-adventure-game.git
-   cd text-adventure-game
+   cd text-adventure-game/src
    ```
 
 2. **Run & Compile**:
