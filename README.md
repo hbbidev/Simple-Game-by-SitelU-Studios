@@ -90,9 +90,3 @@ Dilisensikan di bawah [MIT License](LICENSE).
 **Selamat Bermain!** ✨  
 _Jangan lupa screenshot ending favoritmu!_
 ```
-
-Beberapa catatan:
-1. Ganti `https://github.com/username/text-adventure-game.git` dengan URL repo Anda
-2. Sesuaikan bagian "Berkontribusi" jika perlu
-3. Tambahkan screenshot game jika tersedia
-4. File siap digunakan langsung di GitHub (format markdown valid)
